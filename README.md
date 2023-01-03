@@ -1,6 +1,6 @@
 # ipyvtklink
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kitware/ipyvtklink/master)
+[![Binder](https://mybinder.org/v2/gh/Gjacquenot/test_xdyn_notebook/master?filepath=/xdyn.ipynb)
 [![PyPI](https://img.shields.io/pypi/v/ipyvtklink.svg?logo=python&logoColor=white)](https://pypi.org/project/ipyvtklink/)
 [![conda](https://img.shields.io/conda/vn/conda-forge/ipyvtklink.svg?logo=conda-forge&logoColor=white)](https://anaconda.org/conda-forge/ipyvtklink)
 
