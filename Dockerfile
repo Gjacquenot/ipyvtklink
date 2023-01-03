@@ -26,3 +26,4 @@ ENV PYVISTA_USE_IPYVTK=true
 USER jovyan
 WORKDIR $HOME
 COPY vtk.ipynb $HOME/
+COPY xdyn.ipynb $HOME/
